@@ -23,27 +23,39 @@ The remaining neighborhoods were ranked based on the number of venues available 
 The chosen "top cluster" was then investigated to determine which venues most worth the time of viewing, and these rankings were used to plot the best group for the actual crawl. Unfortunately, I did have to resort to manual choosing the order of the chosen venues to create the best walkable route.
 
 ### 4. Results
-Screen%20Shot%202020-01-13%20at%206.53.30%20PM.png
 
-Screen%20Shot%202020-01-13%20at%206.58.17%20PM.png
+![Neighborhoods of Choice](https://github.com/wiley0210/Quantitatively-Optimum-Houston-Pub-Crawl/blob/master/Crawl%20Result%20Photos/Picture1.png)
+Neighborhoods chosen for examination
 
-Screen%20Shot%202020-01-13%20at%206.55.02%20PM.png
+![Venue Correlation](https://github.com/wiley0210/Quantitatively-Optimum-Houston-Pub-Crawl/blob/master/Crawl%20Result%20Photos/Picture12.png)
+Correlation of venue information
 
-Screen%20Shot%202020-01-13%20at%206.55.07%20PM.png
+![Category Frequence](https://github.com/wiley0210/Quantitatively-Optimum-Houston-Pub-Crawl/blob/master/Crawl%20Result%20Photos/Picture2.png)
+Frequency of category in each pricing bracket
 
-Screen%20Shot%202020-01-13%20at%206.55.27%20PM.png
+![Category Frequence](https://github.com/wiley0210/Quantitatively-Optimum-Houston-Pub-Crawl/blob/master/Crawl%20Result%20Photos/Picture3.png)
+Frequency of category in each pricing bracket
 
-Screen%20Shot%202020-01-13%20at%206.57.17%20PM.png
+![Venue Clusters](https://github.com/wiley0210/Quantitatively-Optimum-Houston-Pub-Crawl/blob/master/Crawl%20Result%20Photos/Picture4.png)
+Clustered venues chosen
 
-Screen%20Shot%202020-01-13%20at%206.57.25%20PM.png
+![Venue Count by Cluster](https://github.com/wiley0210/Quantitatively-Optimum-Houston-Pub-Crawl/blob/master/Crawl%20Result%20Photos/Picture5.png)
+Venue Count by Cluster
 
-Screen%20Shot%202020-01-13%20at%206.57.31%20PM.png
+![Venue Rating Distribution](https://github.com/wiley0210/Quantitatively-Optimum-Houston-Pub-Crawl/blob/master/Crawl%20Result%20Photos/Picture6.png)
+Distribution of Venue Ratings in each cluster
 
-Screen%20Shot%202020-01-13%20at%206.57.36%20PM.png
+![Venue Likes Distribution](https://github.com/wiley0210/Quantitatively-Optimum-Houston-Pub-Crawl/blob/master/Crawl%20Result%20Photos/Picture7.png)
+Distribution of Venue Likes in each cluster
 
-Screen%20Shot%202020-01-13%20at%206.57.50%20PM.png
+![Ranking Scores by cluster](https://github.com/wiley0210/Quantitatively-Optimum-Houston-Pub-Crawl/blob/master/Crawl%20Result%20Photos/Picture8.png)
+Ranking Scores by cluster
 
-Screen%20Shot%202020-01-13%20at%206.57.56%20PM.png
+![Automatic Route](https://github.com/wiley0210/Quantitatively-Optimum-Houston-Pub-Crawl/blob/master/Crawl%20Result%20Photos/Picture9.png)
+Automatically determined route
+
+![Manual Route](https://github.com/wiley0210/Quantitatively-Optimum-Houston-Pub-Crawl/blob/master/Crawl%20Result%20Photos/Picture11.png)
+Manually determined route
 
 ### 5. Discussion
 This analysis displayed many shortcomings that could be overcome through a premium data connection with Foursquare that would allow for all venues in the neighborhoods to be chosen, rather than just the ones that are closest to the center. However, it did determine which neighborhoods had the best clustering of nightlife locations. This was very important for validation of the model, because it matched the conventional wisdom of people who live in Houston.
